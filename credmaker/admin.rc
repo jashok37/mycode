@@ -1,0 +1,7 @@
+export OS_AUTH_URL=test.com
+export OS_IDENTITY_API_VERSION=3
+export OS_PROJECT_NAME=Python
+export OS_PROJECT_DOMAIN_NAME=test
+export OS_USERNAME=jashok
+export OS_USER_DOMAIN_NAME=test
+export OS_PASSWORD=Test#2022
